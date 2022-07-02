@@ -1,0 +1,13 @@
+{
+  "name": "pw-vscode-live",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.24.0-alpha-jun-30-2022"
+  }
+}
